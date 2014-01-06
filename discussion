@@ -1,0 +1,45 @@
+<head>
+   <!doctype html>
+   
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Puerto-cruz by chrismay2</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    
+    <link rel="stylesheet" type="text/css" href="//cdn.moot.it/1/moot.css">
+    <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//cdn.moot.it/1/moot.min.js"></script>
+    <!-- 4.1 Use a mobile optimized version of Moot: goo.gl/EOpFl -->
+    <meta name="viewport" content="width=device-width">
+    <!-- 4.2 force latest IE rendering engine: bit.ly/1c8EiC9 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+
+      <header>
+        <h1>Puerto-Cruz</h1>
+        <p>Discussion</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+      
+      <a class="moot" href="https://moot.it/i/puerto-cruz">Foro de discussion</a>
+      
+      </section>
+      <footer>
+        <p>Project maintained by <a href="https://github.com/chrismay2">chrismay2</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
