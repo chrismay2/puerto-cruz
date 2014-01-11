@@ -1,6 +1,6 @@
 /*TEMPLATE SIMPLY-GREEN -KALYAN.CSS - BY KALYAN CHAKRAVARTHY*/
 
-body { text-align:center; background-color:#B7C584; }
+body { text-align:center; background-image:url(../images/back1.jpg); }
 form { display:inline; padding:0; margin:0; }
 code { font-size:12px; }
 
@@ -9,7 +9,7 @@ code { font-size:12px; }
   margin:auto; 
   width:762px; 
   border:3px solid #6F7850;
-  font:76% verdana,tahoma;
+  font:90% verdana,tahoma;
   text-align:left;
   display:block;
 }
