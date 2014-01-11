@@ -22,20 +22,6 @@ code { font-size:12px; }
 #main      { margin:20px; clear:both; }
 #content   { float:right; width:72%;  margin-bottom:20px;}
 
-.m-header {
-  background-color: #6F7850
-}
- 
-/*  Light main links on dark background  */
-.m-navi a, .m-nav-account span {
-  color: #ddd
-}
-.m-navi a:hover, .m-nav-account span:hover {
-  color: #fff
-}
-.m-navi a.m-selected, .m-nav-account span.m-selected {
-  color: #333 !important
-}
 
 
 
