@@ -22,6 +22,13 @@ code { font-size:12px; }
 #main      { margin:20px; clear:both; }
 #content   { float:right; width:72%;  margin-bottom:20px;}
 
+
+.moot .m-header .m-selected {
+  /* your custom color goes here */
+  background-color: #eee;
+}
+
+
 #righty    { float:left; width:25%;  }
 
 #main h1 {
