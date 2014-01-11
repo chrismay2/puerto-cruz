@@ -22,10 +22,8 @@ code { font-size:12px; }
 #main      { margin:20px; clear:both; }
 #content   { float:right; width:72%;  margin-bottom:20px;}
 
-
-.moot .m-header .m-selected {
-  /* your custom color goes here */
-  background-color: #eee;
+.moot .m-seed .m-facelink, .moot .m-header .m-selected {
+   background-color: #333333;
 }
 
 
